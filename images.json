@@ -1,0 +1,15 @@
+{"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+  "ne_shaded": {
+    "__comment__": "Natural Earth shaded relief",
+    "__source__": "http://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-1/",
+    "__projection__": "PlateCarree",
+    "low": "us.png",
+	"high": "NE1_50M_SR.tif"	},
+"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+  "BM": {
+    "__comment__": "Blue Marble Next Generation, July ",
+    "__source__": "https://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB",
+    "__projection__": "PlateCarree",
+    "low": "BM.jpeg",
+    "high": "BMNG_hirez.png"}
+}
